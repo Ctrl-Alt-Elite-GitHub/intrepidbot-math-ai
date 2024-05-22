@@ -1,3 +1,3 @@
-# IntrepidBot Math Wolfram Alpha AI API
+# Gauss Wolfram Alpha and OpenAI API
 
-IntrepidBot Math: [Repository Link](https://github.com/intrepidbird/intrepidbot)
+Gauss: [Repository Link](https://github.com/intrepidbird/gauss)
